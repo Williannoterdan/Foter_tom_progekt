@@ -169,12 +169,11 @@ line-height: 64px; /* 118.519% */
 letter-spacing: -1.62px; 
   }
 }
-@media (min-width: 1158px){
+@media (min-width: 1280px){
   .div_footer {
     display: flex;
     max-width: 1280px;
     flex-direction: row;
-    padding-left: 100px;
   }
 
 
@@ -207,16 +206,4 @@ letter-spacing: -1.92px;
 }
 
 
-.section_one_div{
-  
-  background-color: red;
-  height: 300px;
-  width: 23px;
-}
-.section_one{
-  background-color: yellow;
-  height: 500px;
-  width: 236px;
-
-}
 
